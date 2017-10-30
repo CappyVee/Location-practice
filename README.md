@@ -13,11 +13,11 @@ _Beginning of week four project. Intended as a chance to practice objects/protot
 
 _register form inputs_
 
-_display form inputs_
+_display form inputs (make sure things are connected)_
 
 _build constructor to store to-do list info_
 
-_append to-do with list info stored in constructor_
+_build prototype to display/remove abbreviated data
 
 _create click function to display description on the right for abbreviated info below form_
 
